@@ -4,9 +4,9 @@ This is a small project I worked on over winter break. It uses a user class whic
 Below is an example of a graph the program can produce. This graph is especially useful because it provides the stocks purchased at every dot along the "dollars invested" line in the top left, and it also provides the exact closing numbers on the right side of the graph.
 ![alt text](https://cdn.discordapp.com/attachments/752243157475000473/798782787788210226/StockMarketSimulationSampleGraph.png)
 
-Here is a sample output of the client file:
+Here is a sample output of the client file where the username is Jamil and the initiated balance is 123456:
 
-elcome to the Stock Market Simulation Script. Enter your username to login or create a new account. Jamil
+Welcome to the Stock Market Simulation Script. Enter your username to login or create a new account. Jamil
 How much money would you like to put into your account? 123456
 Account successfully created.
 -
