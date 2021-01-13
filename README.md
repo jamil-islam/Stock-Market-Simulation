@@ -1,2 +1,3 @@
 # Stock-Market-Simulation
-A small project I worked on over winter break. It uses a user class which interacts with a variety of stock classes to purchase and sell stocks.
+This is a small project I worked on over winter break. It uses a user class which interacts with three types of stock classes—a general stock class, a purchased stock class, and a sold stock class (in order of inhertiance)—to purchase and sell stocks. In addition, the user class can also graph its account which plots its money spent versus its portfolio worth. To validate input into functions and make the output of functions more readable I used decorators. Lastly, I utilized various libraries: yahoo finance to get stock information, pandas to process stock history, matplotlib to visualize data, and built-in library Pickle for object sterilization.
+
